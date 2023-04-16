@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DoubleDirectionApp</string>
+    <string name="banner_description">Banner</string>
+    <string name="home_button">Home</string>
+    <string name="see_all">See all</string>
+</resources>
